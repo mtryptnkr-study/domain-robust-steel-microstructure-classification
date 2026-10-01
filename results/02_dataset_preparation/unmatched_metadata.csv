@@ -1,0 +1,2 @@
+FileNameHarm,ID,SampleIDHarm,Magnification,ImageSizePx,MicroscopeID,EtchingID,ExposureHarm,ApertureHarm,ObjectivHarm,FilterHarm,Phase,PatchID,metadata_row,_map_key,image_path,relative_path,filename,stem,parent_folder
+228_D_Bainite_01,228,D,20x,96,0,0,medium,high,standard,DLF,Bainite,1,1102,228_D_Bainite_01,,,,,

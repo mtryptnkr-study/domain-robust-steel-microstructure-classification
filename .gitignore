@@ -1,0 +1,48 @@
+# ============================================
+# AI Materials Microscopy — Git Ignore
+# ============================================
+
+# Raw / processed datasets
+data/
+
+# Trained model checkpoints
+models/
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Temporarily excluded while experiment is running
+notebooks/10_grouped_robustness_validation.ipynb
+results/10_grouped_robustness/

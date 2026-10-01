@@ -1,0 +1,14 @@
+column,dtype,non_null,missing,unique
+FileNameHarm,str,5327,0,5327
+ID,int64,5327,0,474
+SampleIDHarm,str,5327,0,20
+Magnification,str,5327,0,3
+ImageSizePx,int64,5327,0,2
+MicroscopeID,int64,5327,0,3
+EtchingID,int64,5327,0,2
+ExposureHarm,str,5327,0,3
+ApertureHarm,str,5327,0,3
+ObjectivHarm,str,5327,0,2
+FilterHarm,str,5327,0,2
+Phase,str,5327,0,2
+PatchID,int64,5327,0,14

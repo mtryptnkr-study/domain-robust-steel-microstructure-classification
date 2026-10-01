@@ -1,0 +1,10 @@
+heldout_magnification,split,n_images,n_samples,bainite,martensite
+100x,train,4128,16,1869,2259
+100x,val,918,4,474,444
+100x,test,247,17,127,120
+20x,train,2279,16,1034,1245
+20x,val,498,4,258,240
+20x,test,2516,20,1178,1338
+50x,train,2265,16,1035,1230
+50x,val,498,4,270,228
+50x,test,2530,20,1165,1365

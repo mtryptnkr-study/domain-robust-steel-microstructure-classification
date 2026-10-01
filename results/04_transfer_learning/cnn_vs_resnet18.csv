@@ -1,0 +1,5 @@
+Model,Evaluation,Accuracy,Balanced Accuracy,Macro F1,ROC-AUC
+Custom CNN,Standard stratified,0.7809,0.7781,0.7789,0.8582
+Custom CNN,Unseen physical samples,0.6487,0.64,0.6405,0.7094
+ResNet18 transfer learning,Standard stratified,0.9609571788413098,0.9603748096321361,0.9607549263616753,0.9934175731044459
+ResNet18 transfer learning,Unseen physical samples,0.6710526315789473,0.6828814460393408,0.6702282020841577,0.7746789221858473

@@ -1,0 +1,10 @@
+heldout_microscope,split,n_images,n_samples,bainite,martensite
+0,train,2497,16,1138,1359
+0,val,549,4,285,264
+0,test,2247,20,1047,1200
+1,train,3646,16,1657,1989
+1,val,804,4,420,384
+1,test,843,20,393,450
+2,train,2529,16,1143,1386
+2,val,561,4,297,264
+2,test,2203,20,1030,1173

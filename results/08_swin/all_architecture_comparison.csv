@@ -1,0 +1,9 @@
+Model,Evaluation,Accuracy,Macro F1,ROC-AUC
+Custom CNN,standard_stratified,0.7809,0.7789,0.8582
+ResNet18,standard_stratified,0.961,0.9608,0.9934
+ViT-B/16,standard_stratified,0.9408,0.9404,0.9877
+Custom CNN,sample_grouped,0.6487,0.6405,0.7094
+ResNet18,sample_grouped,0.6711,0.6702,0.7747
+ViT-B/16,sample_grouped,0.7526,0.7497,0.819
+Swin-T,standard_stratified,0.924433249370277,0.9235779139529661,0.9847514544423416
+Swin-T,sample_grouped,0.7973684210526316,0.7931921630714427,0.8728210078625591
