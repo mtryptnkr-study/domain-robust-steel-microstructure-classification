@@ -42,7 +42,3 @@ Thumbs.db
 *.synctex.gz
 *.fls
 *.fdb_latexmk
-
-# Temporarily excluded while experiment is running
-notebooks/10_grouped_robustness_validation.ipynb
-results/10_grouped_robustness/
